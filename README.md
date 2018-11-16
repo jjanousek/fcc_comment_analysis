@@ -6,6 +6,6 @@ After attending a full-time Data Science course at General Assembly London, I ch
 
 ### Presentation PPT
 
-If you want to skip the code, just download the presentation for a highl-level description of the tools used and summary of results.
+If you want to skip the code, just download the presentation for a high-level description of the tools used and a summary of results.
 
 https://github.com/jjanousek/fcc_comment_analysis/blob/master/Capstone%20Project%20Johannes%20Janousek%20v7.pptx
